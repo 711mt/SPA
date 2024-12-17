@@ -1,0 +1,8 @@
+1. Rekurzivna funkcija
+a) koja provjerava da li se svi karakteri zadatog stringa S nalaze u stringu P
+b) napisati rekurzivnu funkciju koja trazi naziv grada koji ima najvecu razliku izmedju prosjecno najvise i prosjecno najnize temperature
+u paru, ali uz uslov da funkcija ignorise sve parove gdje je najniza temperatura negativna. Torke se cuvaju u Python ugradjenoj listi,
+pri cemu svaka torka sadrzi ime grada,najnizu i najvisu dnevnu temperaturu u celzijusima za odredjeni dan
+
+2. dvostruko olancana lista za Kurs
+3. Red koji cuva informacije o kursevima koje polaznik planira da isprati
